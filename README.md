@@ -2,8 +2,6 @@
 
 An enviromental web-app forecasting air &amp; water quality and wildfires
 
-[![Build Status](https://travis-ci.com/PetarRan/lyfe-io.svg?branch=master)](https://travis-ci.com/PetarRan/lyfe-io)
-
 ## This web app focuses on everyday environmental issues around the globe and spreading awareness about it. It shows all the needed data in all the right places for users to integrate as much as possible
 
 ## Inspiration
